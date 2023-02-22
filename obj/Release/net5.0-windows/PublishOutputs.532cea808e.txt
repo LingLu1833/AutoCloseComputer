@@ -1,0 +1,5 @@
+E:\BaiduNetdiskDownload\AutoCloseComputer\AutoCloseComputer.exe
+E:\BaiduNetdiskDownload\AutoCloseComputer\AutoCloseComputer.dll
+E:\BaiduNetdiskDownload\AutoCloseComputer\AutoCloseComputer.deps.json
+E:\BaiduNetdiskDownload\AutoCloseComputer\AutoCloseComputer.runtimeconfig.json
+E:\BaiduNetdiskDownload\AutoCloseComputer\AutoCloseComputer.pdb
